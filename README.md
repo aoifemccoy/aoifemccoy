@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aoifemccoy
+- 👋 Hi, I’m @chynawhyte
 - 👀 I’m interested in Blockchain & Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on small projects, anything blockchain or crypto
